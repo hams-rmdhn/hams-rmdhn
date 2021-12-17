@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hamsrmdhn
+- 👀 I’m interested in PHP, MYSQL and WordPress
+- 🌱 I’m currently learning PHP and MYSQL
+- 💞️ I’m looking to collaborate on WordPress Platform
+- 📫 Reach me at rama@studioinspirasi.com
